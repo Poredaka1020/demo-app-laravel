@@ -15,3 +15,4 @@ Route::view('/', 'home');
 Route::view('/about', 'about');
 Route::view('/contact', 'contact');
 Route::view('/help', 'help');
+Route::view('/how-it-works', 'how-it-works');
